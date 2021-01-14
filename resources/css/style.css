@@ -451,19 +451,6 @@ cite img {
     margin: 0 auto;
 }
 
-.form-messages {
-    width: 70%;
-    margin: 0 auto;
-    padding: 10px;
-    border-radius: 3px;
-    margin-bottom: 20px;
-    color: black;
-}
-
-.success {background-color: #8de99f;}
-
-.error {background-color: #d36363}
-
 input[type=text],
 input[type=email],
 select,
